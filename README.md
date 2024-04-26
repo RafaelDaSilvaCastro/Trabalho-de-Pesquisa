@@ -1,3 +1,9 @@
+# Equipe
+Bruna Pacheco Peruch
+Guilherme Brito Pizzollo
+Rafael Castro
+
+
 # Passo a passao para executar 
 
 - Abra o Google Colab
